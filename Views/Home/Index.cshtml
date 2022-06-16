@@ -1,0 +1,226 @@
+﻿<!--Name:
+<input type="text" data-bind="value: name, valueUpdate: 'afterkeydown'" />
+<input type="checkbox" data-bind="checked: nameVisible" />
+<p>
+    Hello,
+    <span data-bind="text: name, visible: nameVisible"></span>
+    <br />
+    <span data-bind="text: displayName"></span>
+</p>
+<button data-bind="click: changeName">Change name</button>-->
+<!-- OBSERVABLE ARRAY
+<button data-bind="click: addItem">Add</button>
+<button data-bind="click: removeItem">Remove</button>
+
+<ul data-bind="template: {name: 'listTempl', foreach: list}"></ul>
+
+<script id="listTempl" type="text/html">
+    <li data-bind="text: name"></li>
+</script>
+
+<script>
+    $(function () {
+
+        var names = [{ name: 'Sara' }, { name: 'Natasa' }, { name: 'Zoran' }];
+
+        var viewModel = {
+            list: ko.observableArray(names),
+
+            addItem: function () {
+                this.list.push({name: 'Buba'});
+            },
+
+            removeItem: function () {
+                this.list.pop();
+            }
+        };
+        ko.applyBindings(viewModel);
+
+    });
+</script> -->
+<!--  old school templating -  NE ISPISUJE KAKO TREBA
+<div id="tagsList" class="box">
+    <div class="box-head">
+        <h2 class="left">Tags</h2>
+    </div>
+    <div class="box-content">
+        <input type="text" placeholder="Add New Tag" data-bind="value: tagToAdd, valueUpdate: 'afterkeydown'"/>
+        <button data-bind="click: addTag">+ Add</button>
+        <div data-bind="template: 'tagTempl'"></div>
+    </div>
+</div>
+
+<script id="tagTempl" type="text/html">
+    <ul>
+        {{each tags}}
+        <li class="tagItem">
+            <span>${Name}</span>
+            <div>
+                <a href="#" class="tag-edit">Edit</a>
+                <a href="#" class="tag-delete">Delete</a>
+            </div>
+        </li>
+        {{/each}}
+    </ul>
+</script>-->
+<!-- OPTIMIZACIJA TEMPLATE-A SA FOREACH-OM
+<div id="tagsList" class="box">
+    <div class="box-head">
+        <h2 class="left">Tags</h2>
+    </div>
+    <div class="box-content">
+        <input type="text" placeholder="Add New Tag" data-bind="value: tagToAdd, valueUpdate: 'afterkeydown'" />
+        <button data-bind="click: addTag">+ Add</button>
+        <ul data-bind="template: {name: 'tagTempl', foreach: tags}"></ul>
+    </div>
+</div>
+
+<script id="tagTempl" type="text/html">
+    <li class="tagItem">
+        <span>${Name}</span>
+        <div>
+            <a href="#" class="tag-edit">Edit</a>
+            <a href="#" class="tag-delete">Delete</a>
+        </div>
+    </li>
+</script> -->
+<!-- NATIVE BINDING OPTIMIZACIJA TEMPLATE-A SA FOREACH-OM- BEZ JQUERY REFERENCE
+<div class="box" id="tagsList">
+    <div class="box-head">
+        <h2 class="left">Tags</h2>
+    </div>
+    <div class="box-content">
+        <input type="text" placeholder="Add New Tag" data-bind="value: tagToAdd, valueUpdate: 'afterkeydown'"/>
+        <button data-bind="click: addTag">+ Add</button>
+        <ul data-bind="template: {name: 'tagsTempl', foreach: tags}">
+
+        </ul>
+    </div>
+</div>
+
+<script type="text/html" id="tagsTempl">
+    <li class="tagItem">
+        <span data-bind="text: Name"></span>
+        <div>
+            <a href="#" class="tag-edit">Edit</a>
+            <a href="#" class="tag-delete">Delete</a>
+        </div>
+    </li>
+</script> -->
+<!-- CONTROL FLOW BINDING -->
+<!-- 1. CONTAINERLESS CONTROL FLOW - COMMENT BASED SYNTAX -->
+<!--<div class="box" id="tagsList">
+    <div class="box-head">
+        <h2 class="left">Tags</h2>
+    </div>
+    <div class="box-content">
+        <input type="text" placeholder="Add New Tag" data-bind="value: tagToAdd, valueUpdate: 'afterkeydown'" />
+        <button data-bind="click: addTag">+ Add</button>
+        <ul>-->
+<!-- ko foreach: tags -->
+<!--<li class="tagItem">
+    <span data-bind="text: Name"></span>
+    <div>
+        <a href="#" class="tag-edit">Edit</a>
+        <a href="#" class="tag-delete">Delete</a>
+    </div>
+</li>-->
+<!-- /ko -->
+<!--</ul>
+    </div>
+</div>-->
+<!-- 2. BINDING DIRECTLY IN CONTAINER ELEMENT  -->
+<!--<div class="box" id="tagsList">
+    <div class="box-head">
+        <h2 class="left">Tags</h2>
+    </div>
+    <div class="box-content">
+        <input type="text" placeholder="Add New Tag" data-bind="value: tagToAdd, valueUpdate: 'afterkeydown'" />
+        <button data-bind="click: addTag">+ Add</button>
+        <ul data-bind="foreach: tags">
+            <li class="tagItem">
+                <span data-bind="text: Name"></span>
+                <div>
+                    <a href="#" class="tag-edit">Edit</a>
+                    <a href="#" class="tag-delete">Delete</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div> -->
+<!-- jQuery STYLE EVENT HANDLING AND PARENT BINDING CONTEX and $parent
+<div class="box" id="tagsList">
+    <div class="box-head">
+        <h2 class="left">Tags</h2>
+    </div>
+    <div class="box-content">
+        <input type="text" placeholder="Add New Tag" data-bind="value: tagToAdd, valueUpdate: 'afterkeydown'" />
+        <button data-bind="click: addTag">+ Add</button>
+        <ul data-bind="foreach: tags">
+            <li class="tagItem" data-bind="click: $parent.selectTag">
+                <span data-bind="text: Name"></span>
+                <div>
+                    <a href="#" class="tag-edit">Edit</a>
+                    <a href="#" class="tag-delete">Delete</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div id="tagDialog" data-bind="with: selectedTag">
+    Tag name:
+    <input type="text" data-bind="value: Name" />
+</div>-->
+<!-- CUSTOM BINDING
+
+<div class="box" id="tagsList">
+    <div class="box-head">
+        <h2 class="left">Tags</h2>
+    </div>
+    <div class="box-content">
+        <input type="text" placeholder="Add New Tag" data-bind="value: tagToAdd, valueUpdate: 'afterkeydown', executeOnEnter: addTag" />
+        <button data-bind="click: addTag">+ Add</button>
+        <ul data-bind="foreach: tags">
+            <li class="tagItem" data-bind="click: $parent.selectTag">
+                <span data-bind="text: Name"></span>
+                <div>
+                    <a href="#" class="tag-edit">Edit</a>
+                    <a href="#" class="tag-delete">Delete</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div id="tagDialog" data-bind="with: selectedTag">
+    Tag name:
+    <input type="text" data-bind="value: Name" />
+</div>-->
+
+<!-- PROTECTED OBSERVABLE -->
+<div class="box" id="tagsList">
+    <div class="box-head">
+        <h2 class="left">Tags</h2>
+    </div>
+    <div class="box-content">
+        <input type="text" placeholder="Add New Tag" data-bind="value: tagToAdd, valueUpdate: 'afterkeydown', executeOnEnter: addTag" />
+        <button data-bind="click: addTag">+ Add</button>
+        <ul data-bind="foreach: tags">
+            <li class="tagItem" data-bind="click: $parent.selectTag">
+                <span data-bind="text: Name"></span>
+                <div>
+                    <a href="#" class="tag-edit">Edit</a>
+                    <a href="#" class="tag-delete">Delete</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div id="tagDialog" data-bind="with: selectedTag">
+    Tag name:
+    <input type="text" data-bind="value: Name" />
+</div>
+
+<script src="@Url.Content("~/Scripts/bp-index.js")" type="text/javascript"></script>
