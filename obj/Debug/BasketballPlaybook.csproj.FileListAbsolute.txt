@@ -1,0 +1,152 @@
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\BasketballPlaybook.dll.config
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\BasketballPlaybook.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\BasketballPlaybook.pdb
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\Antlr3.Runtime.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\EntityFramework.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\Microsoft.Data.Edm.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\Microsoft.Data.OData.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\Microsoft.Web.Infrastructure.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\Newtonsoft.Json.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\Ninject.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Net.Http.Formatting.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Spatial.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Helpers.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Http.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Http.OData.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Http.Tracing.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Http.WebHost.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Mvc.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Optimization.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Providers.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Razor.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.WebPages.Deployment.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.WebPages.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.WebPages.Razor.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\WebGrease.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\Ninject.pdb
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\Ninject.xml
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\EntityFramework.xml
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\Newtonsoft.Json.xml
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Net.Http.Formatting.xml
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Helpers.xml
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Http.xml
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Http.WebHost.xml
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Mvc.xml
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Razor.xml
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.WebPages.xml
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.WebPages.Deployment.xml
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.WebPages.Razor.xml
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Http.Tracing.xml
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Http.OData.xml
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\Microsoft.Data.Edm.xml
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\Microsoft.Data.OData.xml
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Spatial.xml
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\de\Microsoft.Data.Edm.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\es\Microsoft.Data.Edm.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\it\Microsoft.Data.Edm.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\de\Microsoft.Data.OData.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\es\Microsoft.Data.OData.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\fr\Microsoft.Data.OData.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\it\Microsoft.Data.OData.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\ja\Microsoft.Data.OData.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\ko\Microsoft.Data.OData.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\ru\Microsoft.Data.OData.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\de\System.Spatial.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\es\System.Spatial.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\fr\System.Spatial.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\it\System.Spatial.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\ja\System.Spatial.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\ko\System.Spatial.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\ru\System.Spatial.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\zh-Hans\System.Spatial.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\bin\zh-Hant\System.Spatial.resources.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\obj\Debug\BasketballPlaybook.csproj.AssemblyReference.cache
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\obj\Debug\BasketballPlaybook.csproj.CoreCompileInputs.cache
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\obj\Debug\BasketballPlaybook.csproj.CopyComplete
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\obj\Debug\BasketballPlaybook.dll
+D:\knockout\knockout\demos\BasketballPlaybook\BasketballPlaybook\obj\Debug\BasketballPlaybook.pdb
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\BasketballPlaybook.dll.config
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\BasketballPlaybook.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\BasketballPlaybook.pdb
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\Antlr3.Runtime.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\EntityFramework.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\Microsoft.Data.Edm.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\Microsoft.Data.OData.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\Microsoft.Web.Infrastructure.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\Newtonsoft.Json.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\Ninject.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Net.Http.Formatting.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Spatial.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Helpers.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Http.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Http.OData.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Http.Tracing.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Http.WebHost.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Mvc.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Optimization.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Providers.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Razor.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.WebPages.Deployment.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.WebPages.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.WebPages.Razor.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\WebGrease.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\Ninject.pdb
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\Ninject.xml
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\EntityFramework.xml
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\Newtonsoft.Json.xml
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Net.Http.Formatting.xml
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Helpers.xml
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Http.xml
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Http.WebHost.xml
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Mvc.xml
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Razor.xml
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.WebPages.xml
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.WebPages.Deployment.xml
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.WebPages.Razor.xml
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Http.Tracing.xml
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Web.Http.OData.xml
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\Microsoft.Data.Edm.xml
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\Microsoft.Data.OData.xml
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\System.Spatial.xml
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\de\Microsoft.Data.Edm.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\es\Microsoft.Data.Edm.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\it\Microsoft.Data.Edm.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\de\Microsoft.Data.OData.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\es\Microsoft.Data.OData.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\fr\Microsoft.Data.OData.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\it\Microsoft.Data.OData.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\ja\Microsoft.Data.OData.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\ko\Microsoft.Data.OData.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\ru\Microsoft.Data.OData.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\de\System.Spatial.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\es\System.Spatial.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\fr\System.Spatial.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\it\System.Spatial.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\ja\System.Spatial.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\ko\System.Spatial.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\ru\System.Spatial.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\zh-Hans\System.Spatial.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\bin\zh-Hant\System.Spatial.resources.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\obj\Debug\BasketballPlaybook.csproj.AssemblyReference.cache
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\obj\Debug\BasketballPlaybook.csproj.CoreCompileInputs.cache
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\obj\Debug\BasketballPlaybook.csproj.CopyComplete
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\obj\Debug\BasketballPlaybook.dll
+D:\knockout\knockout - Copy (2)\demos\BasketballPlaybook\BasketballPlaybook\obj\Debug\BasketballPlaybook.pdb
